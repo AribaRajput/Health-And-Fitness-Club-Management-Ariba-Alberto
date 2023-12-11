@@ -9,9 +9,9 @@ In this Repo:
 1. Project Report
 2. Full ER Diagram as PNG 
 3. Full Database Schema as PNG 
-4. Video Demo: 
+4. Video Demo: https://youtu.be/5hItwZ1sfhY
 5: SQL Queries
 
 PgAdmin Server:
-Username: 
-Password: 
+Username: postgres
+Password: alberto-ariba
